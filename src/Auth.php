@@ -15,9 +15,9 @@ class Auth {
 
     public function __construct()
     {
-        $this->appId = config('juulian.app_id');
-        $this->secret = config('juulian.secret');
-        $this->redirectUri = config('juulian.redirect_uri');
+        $this->appId = config('oceanengine.app_id');
+        $this->secret = config('oceanengine.secret');
+        $this->redirectUri = config('oceanengine.redirect_uri');
     }
     public function getToken() {
         $cacheKey = $this->cachePrefix;

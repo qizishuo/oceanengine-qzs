@@ -5,12 +5,13 @@
             "OceanengineQzs\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "齐子硕",
             "email": "7868495+qi_zishuo@user.noreply.gitee.com"
         }
     ],
+    "minimum-stability": "dev",
+    "license": "MIT",
     "require": {}
 }
