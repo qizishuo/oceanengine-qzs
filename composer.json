@@ -11,7 +11,7 @@
             "email": "7868495+qi_zishuo@user.noreply.gitee.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "MIT",
     "require": {}
 }
